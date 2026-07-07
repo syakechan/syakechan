@@ -1,4 +1,4 @@
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=uruser&label=cuties&color=FFD1F4"></p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=uruser&label=cuties&color=DD536C"></p>
 
 <br>
 
